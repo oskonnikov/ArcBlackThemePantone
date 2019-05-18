@@ -103,7 +103,7 @@ popover.background.osd,
 popover.background.magnifier, .csd popover.background.osd, .csd popover.background.magnifier, .osd .scale-popup, .osd {
   color: #BAC3CF;
   border: none;
-  background-color: rgba(53, 57, 69, 0.95);
+  background-color: rgba(13, 20, 27, 0.95);
   background-clip: padding-box;
   box-shadow: none; }
 
@@ -321,7 +321,7 @@ button {
     box-shadow: none; }
   button.osd {
     color: #BAC3CF;
-    background-color: rgba(53, 57, 69, 0.95);
+    background-color: rgba(13, 20, 27, 0.95);
     border-color: rgba(35, 38, 46, 0.95); }
     button.osd.image-button {
       padding: 0;
@@ -859,7 +859,7 @@ toolbar, .inline-toolbar {
     padding: 7px;
     border: 1px solid rgba(0, 0, 0, 0.5);
     border-radius: 3px;
-    background-color: rgba(53, 57, 69, 0.85); }
+    background-color: rgba(13, 20, 27, 0.85); }
     toolbar.osd.left, .osd.left.inline-toolbar, toolbar.osd.right, .osd.right.inline-toolbar, toolbar.osd.top, .osd.top.inline-toolbar, toolbar.osd.bottom, .osd.bottom.inline-toolbar {
       border-radius: 0; }
     toolbar.osd.top, .osd.top.inline-toolbar {
@@ -1757,7 +1757,7 @@ notebook {
           color: #FF6D70; }
 
 scrollbar {
-  background-color: #3e434f;
+  background-color: #15202B;
   transition: 300ms cubic-bezier(0.25, 0.46, 0.45, 0.94); }
   * {
     -GtkScrollbar-has-backward-stepper: false;
@@ -2414,7 +2414,7 @@ scrolledwindow undershoot.right {
 scrolledwindow junction {
   border-color: transparent;
   border-image: linear-gradient(to bottom, #2b2e39 1px, transparent 1px) 0 0 0 1/0 1px stretch;
-  background-color: #3e434f; }
+  background-color: #15202B; }
   scrolledwindow junction:dir(rtl) {
     border-image-slice: 0 1 0 0; }
 
@@ -2452,7 +2452,7 @@ row.activatable:selected.has-open-popup, row.activatable:selected:hover {
 .app-notification {
   padding: 10px;
   color: #BAC3CF;
-  background-color: rgba(53, 57, 69, 0.95);
+  background-color: rgba(13, 20, 27, 0.95);
   background-clip: border-box;
   border-radius: 0 0 2px 2px;
   border-width: 0 1px 1px 1px;
@@ -3415,7 +3415,7 @@ button.documents-favorite:active:hover {
 #gf-candidate-popup,
 #gf-candidate-popup.solid {
   color: #cfd5de;
-  background-color: rgba(53, 57, 69, 0.95);
+  background-color: rgba(13, 20, 27, 0.95);
   border: 1px solid rgba(35, 38, 46, 0.95);
   border-radius: 2px; }
 
@@ -4070,7 +4070,7 @@ filechooser.csd.background, filechooser placessidebar list,
 
 filechooser placessidebar.sidebar,
 .nautilus-window placessidebar.sidebar {
-  background-color: rgba(53, 57, 69, 0.95); }
+  background-color: rgba(13, 20, 27, 0.95); }
   filechooser placessidebar.sidebar row.sidebar-row,
   .nautilus-window placessidebar.sidebar row.sidebar-row {
     border: none;
@@ -4138,7 +4138,7 @@ filechooser.maximized placessidebar.sidebar,
 
 .nemo-window .sidebar {
   color: #BAC3CF;
-  background-color: rgba(53, 57, 69, 0.95); }
+  background-color: rgba(13, 20, 27, 0.95); }
   .nemo-window .sidebar .view, .nemo-window .sidebar iconview, .nemo-window .sidebar row {
     background-color: transparent;
     color: #BAC3CF; }
@@ -4171,7 +4171,7 @@ filechooser.maximized placessidebar.sidebar,
 
 filechooser actionbar {
   color: #BAC3CF;
-  background-color: rgba(53, 57, 69, 0.95);
+  background-color: rgba(13, 20, 27, 0.95);
   border-color: rgba(20, 21, 26, 0.95); }
   filechooser actionbar label, filechooser actionbar combobox {
     color: #BAC3CF; }
@@ -4186,7 +4186,7 @@ filechooser actionbar {
   background-image: linear-gradient(to bottom, #2b2e39, #2b2e39); }
 
 .gedit-document-panel {
-  background-color: rgba(53, 57, 69, 0.95); }
+  background-color: rgba(13, 20, 27, 0.95); }
   .maximized .gedit-document-panel {
     background-color: #0d141b; }
   .gedit-document-panel row {

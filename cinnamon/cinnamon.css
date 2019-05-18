@@ -275,7 +275,7 @@ StScrollBar {
 #Tooltip {
   border-radius: 3px;
   padding: 5px 12px;
-  background-color: rgba(53, 57, 69, 0.95);
+  background-color: rgba(13, 20, 27, 0.95);
   color: #BAC3CF;
   font-size: 1em;
   font-weight: normal;
@@ -460,8 +460,8 @@ StScrollBar {
   spacing: 12px; }
 
 .window-caption {
-  background-color: rgba(53, 57, 69, 0.95);
-  border: 1px solid rgba(53, 57, 69, 0.95);
+  background-color: rgba(13, 20, 27, 0.95);
+  border: 1px solid rgba(13, 20, 27, 0.95);
   color: #BAC3CF;
   spacing: 25px;
   border-radius: 2px;
@@ -913,7 +913,7 @@ StScrollBar {
     border-width: 0px; }
 
 #keyboard {
-  background-color: rgba(53, 57, 69, 0.95);
+  background-color: rgba(13, 20, 27, 0.95);
   border-width: 0;
   border-top-width: 1px;
   border-color: rgba(0, 0, 0, 0.4); }
@@ -956,7 +956,7 @@ StScrollBar {
   color: #BAC3CF;
   padding: 5px;
   -arrow-border-radius: 2px;
-  -arrow-background-color: rgba(53, 57, 69, 0.95);
+  -arrow-background-color: rgba(13, 20, 27, 0.95);
   -arrow-border-width: 1px;
   -arrow-border-color: rgba(0, 0, 0, 0.4);
   -arrow-base: 20px;
@@ -1202,7 +1202,7 @@ StScrollBar {
       padding: 5px;
       color: #BAC3CF;
       border-radius: 2px;
-      border: 1px solid rgba(53, 57, 69, 0); }
+      border: 1px solid rgba(13, 20, 27, 0); }
       .sound-player-overlay StButton StIcon {
         icon-size: 16px; }
       .sound-player-overlay StButton:hover {
