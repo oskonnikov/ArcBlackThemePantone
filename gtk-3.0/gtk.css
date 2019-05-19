@@ -284,7 +284,7 @@ button {
     background-image: none; }
   button:disabled {
     border-color: rgba(43, 46, 57, 0.55);
-    background-color: rgba(68, 74, 88, 0.55); }
+    background-color: rgba(24, 36, 48, 0.55); }
     button:disabled label, button:disabled {
       color: rgba(211, 218, 227, 0.45); }
     button:disabled:active, button:disabled:checked {
@@ -402,7 +402,7 @@ button {
       color: rgba(211, 218, 227, 0.45); }
     button.suggested-action:disabled {
       border-color: rgba(43, 46, 57, 0.55);
-      background-color: rgba(68, 74, 88, 0.55); }
+      background-color: rgba(24, 36, 48, 0.55); }
       button.suggested-action:disabled label, button.suggested-action:disabled {
         color: rgba(211, 218, 227, 0.45); }
   button.destructive-action {
@@ -432,7 +432,7 @@ button {
       color: rgba(211, 218, 227, 0.45); }
     button.destructive-action:disabled {
       border-color: rgba(43, 46, 57, 0.55);
-      background-color: rgba(68, 74, 88, 0.55); }
+      background-color: rgba(24, 36, 48, 0.55); }
       button.destructive-action:disabled label, button.destructive-action:disabled {
         color: rgba(211, 218, 227, 0.45); }
   .stack-switcher > button {
@@ -482,7 +482,7 @@ button {
     background-color: #FF6D70; }
   .inline-toolbar toolbutton > button:disabled {
     border-color: rgba(43, 46, 57, 0.55);
-    background-color: rgba(68, 74, 88, 0.55); }
+    background-color: rgba(24, 36, 48, 0.55); }
     .inline-toolbar toolbutton > button:disabled label, .inline-toolbar toolbutton > button:disabled {
       color: rgba(211, 218, 227, 0.45); }
   .inline-toolbar toolbutton > button:disabled:active, .inline-toolbar toolbutton > button:disabled:checked {
@@ -2723,7 +2723,7 @@ tooltip {
   border-radius: 2px;
   box-shadow: none; }
   tooltip.background {
-    background-color: rgba(75, 81, 98, 0.95);
+    background-color: rgba(29, 44, 59, 0.95);
     background-clip: padding-box; }
     tooltip.background label {
       padding: 4px; }
@@ -3501,7 +3501,7 @@ panel-toplevel.background .wnck-pager {
   background-color: rgba(20, 22, 27, 0.95); }
   .mate-panel-menu-bar .wnck-pager:hover,
   panel-toplevel.background .wnck-pager:hover {
-    background-color: rgba(54, 58, 70, 0.95); }
+    background-color: rgba(10, 16, 21, 0.95); }
   .mate-panel-menu-bar .wnck-pager:selected,
   panel-toplevel.background .wnck-pager:selected {
     color: #a9caf1;
@@ -3513,7 +3513,7 @@ panel-toplevel.background na-tray-applet {
   -NaTrayApplet-icon-size: 16px; }
 
 .xfce4-panel.panel {
-  background-color: rgba(43, 46, 55, 0.95);
+  background-color: rgba(16, 24, 32, 0.95);
   text-shadow: none;
   -gtk-icon-shadow: none; }
 
@@ -3521,7 +3521,7 @@ panel-toplevel.background na-tray-applet {
   color: rgba(186, 195, 207, 0.8);
   border-radius: 0;
   border: none;
-  background-color: rgba(43, 46, 55, 0); }
+  background-color: rgba(16, 24, 32, 0); }
   #tasklist-button:hover {
     color: #d8dde4;
     background-color: rgba(0, 0, 0, 0.17); }
@@ -3535,7 +3535,7 @@ panel-toplevel.background button:not(#tasklist-button), .xfce4-panel.panel butto
   color: #BAC3CF;
   border-radius: 0;
   border: none;
-  background-color: rgba(43, 46, 55, 0); }
+  background-color: rgba(16, 24, 32, 0); }
   .mate-panel-menu-bar button:hover:not(#tasklist-button),
   panel-toplevel.background button:hover:not(#tasklist-button), .xfce4-panel.panel button.flat:hover, .xfce4-panel.panel button.sidebar-button:hover {
     border: none;
@@ -3932,7 +3932,7 @@ GtkListBox .h4 {
   padding-left: 6px; }
 
 #panel_window {
-  background-color: rgba(43, 46, 55, 0.95);
+  background-color: rgba(16, 24, 32, 0.95);
   color: #BAC3CF;
   font-weight: bold;
   box-shadow: inset 0 -1px rgba(27, 29, 35, 0.95); }
@@ -3979,7 +3979,7 @@ GtkListBox .h4 {
     background-color: #FF6D70; }
   #content_frame button:disabled {
     border-color: rgba(43, 46, 57, 0.55);
-    background-color: rgba(68, 74, 88, 0.55); }
+    background-color: rgba(24, 36, 48, 0.55); }
     #content_frame button:disabled label, #content_frame button:disabled {
       color: rgba(211, 218, 227, 0.45); }
 

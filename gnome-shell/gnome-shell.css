@@ -34,13 +34,13 @@ stage {
   color: #D3DAE3;
   background-color: #182430;
   border: 1px solid #2b2e39;
-  box-shadow: inset 0 1px rgba(68, 74, 88, 0.05); }
+  box-shadow: inset 0 1px rgba(24, 36, 48, 0.05); }
   .button:focus, .notification-banner .notification-button:focus, .hotplug-notification-item:focus {
     text-shadow: 0 1px rgba(21, 32, 43, 0);
     color: #D3DAE3;
     background-color: #182430;
     border: 1px solid #FF6D70;
-    box-shadow: inset 0 1px rgba(68, 74, 88, 0.05); }
+    box-shadow: inset 0 1px rgba(24, 36, 48, 0.05); }
   .button:hover, .notification-banner .notification-button:hover, .hotplug-notification-item:hover {
     text-shadow: 0 1px rgba(21, 32, 43, 0);
     color: #D3DAE3;
@@ -52,7 +52,7 @@ stage {
     color: #D3DAE3;
     background-color: #182430;
     border: 1px solid #FF6D70;
-    box-shadow: inset 0 1px rgba(68, 74, 88, 0.05); }
+    box-shadow: inset 0 1px rgba(24, 36, 48, 0.05); }
   .button:active, .notification-banner .notification-button:active, .hotplug-notification-item:active, .button:active:focus, .notification-banner .notification-button:active:focus, .hotplug-notification-item:active:focus {
     text-shadow: 0 1px rgba(21, 32, 43, 0);
     color: #ffffff;
@@ -63,8 +63,8 @@ stage {
     text-shadow: 0 1px rgba(21, 32, 43, 0);
     color: rgba(211, 218, 227, 0.45);
     border: 1px solid rgba(43, 46, 57, 0.55);
-    background-color: rgba(68, 74, 88, 0.55);
-    box-shadow: inset 0 1px rgba(68, 74, 88, 0.05); }
+    background-color: rgba(24, 36, 48, 0.55);
+    box-shadow: inset 0 1px rgba(24, 36, 48, 0.05); }
 
 StEntry {
   padding: 7px;
@@ -1625,7 +1625,7 @@ StScrollBar {
   color: pink; }
 
 .legacy-tray {
-  background-color: rgba(43, 46, 55, 0.95); }
+  background-color: rgba(16, 24, 32, 0.95); }
   .legacy-tray:ltr {
     border-radius: 0 2px 0 0;
     border-left-width: 0; }
@@ -1781,7 +1781,7 @@ StScrollBar {
       color: #D3DAE3;
       background-color: #182430;
       border: 1px solid #2b2e39;
-      box-shadow: inset 0 1px rgba(68, 74, 88, 0.05); }
+      box-shadow: inset 0 1px rgba(24, 36, 48, 0.05); }
       .login-dialog .modal-dialog-button:default:hover, .login-dialog .modal-dialog-button:default:focus {
         text-shadow: 0 1px rgba(21, 32, 43, 0);
         color: #D3DAE3;
@@ -1798,8 +1798,8 @@ StScrollBar {
         text-shadow: 0 1px rgba(21, 32, 43, 0);
         color: rgba(211, 218, 227, 0.45);
         border: 1px solid rgba(43, 46, 57, 0.55);
-        background-color: rgba(68, 74, 88, 0.55);
-        box-shadow: inset 0 1px rgba(68, 74, 88, 0.05); }
+        background-color: rgba(24, 36, 48, 0.55);
+        box-shadow: inset 0 1px rgba(24, 36, 48, 0.05); }
 
 .login-dialog-logo-bin {
   padding: 24px 0px; }
