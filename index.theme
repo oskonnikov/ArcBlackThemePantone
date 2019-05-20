@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Arc-Black-2345C
-Comment=A flat theme with transparent elements, based on original ARC-Theme, with new colors. Pantone Black 6C as background and Pantone 2345C as accent
+Name=Arc-Black-Living-Coral
+Comment=A flat theme with transparent elements, based on original ARC-Theme, with new colors. Pantone Black 6C as background and Pantone Living Coral as accent
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Arc-Black-2345C
-MetacityTheme=Arc-Black-2345C
+GtkTheme=Arc-Black-Living-Coral
+MetacityTheme=Arc-Black-Living-Coral
 IconTheme=gnome
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close
