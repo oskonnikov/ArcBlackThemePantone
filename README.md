@@ -14,4 +14,5 @@ More colors coming soon on next updates!
 10. Mango Mojito 15-0960
 11. Terrarium Moss 18-0416
 12. Sweet Liac 14-2808
-Stay Tuned! 
+
+`Stay Tuned!`
