@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Adwaita-Flat-Dark-Red
+Type=X-GNOME-Metatheme
+Comment=Based on GTK Adwaita. Without gradients, used darker background (#151515) and bright red accent (#E60012).Inspired by ThinkPad red dot color.
+
+[X-GNOME-Metatheme]
+GtkTheme=Adwaita-Flat-Dark-Red
+MetacityTheme=Dopple
+IconTheme=Adwaita
+GtkColorScheme=tooltip_fg_color:#ffffff,tooltip_bg_color:#151515
+CursorTheme=DMZ-Black
+CursorSize=24
+NotificationTheme=nodoka
