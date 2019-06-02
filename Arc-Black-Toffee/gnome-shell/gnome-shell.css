@@ -44,7 +44,7 @@ stage {
   .button:hover, .notification-banner .notification-button:hover, .hotplug-notification-item:hover {
     text-shadow: 0 1px rgba(21, 32, 43, 0);
     color: #D3DAE3;
-    background-color: #505666;
+    background-color: #101820;
     border: 1px solid #2b2e39;
     box-shadow: inset 0 1px rgba(80, 86, 102, 0.05); }
   .button:hover:focus, .notification-banner .notification-button:hover:focus, .hotplug-notification-item:hover:focus {
@@ -85,7 +85,7 @@ StEntry {
     box-shadow: inset 0 2px 4px rgba(21, 32, 43, 0.05); }
   StEntry:insensitive {
     color: rgba(211, 218, 227, 0.45);
-    background-color: #3c414e;
+    background-color: #182430;
     border-color: 1px solid #313440;
     box-shadow: inset 0 2px 4px rgba(60, 65, 78, 0.05); }
   StEntry StIcon.capslock-warning {
@@ -838,7 +838,7 @@ StScrollBar {
   .events-section-title:focus {
     text-shadow: 0 1px rgba(21, 32, 43, 0);
     color: #D3DAE3;
-    background-color: #505666;
+    background-color: #101820;
     border: 1px solid #2b2e39;
     box-shadow: inset 0 1px rgba(80, 86, 102, 0.05); }
   .datemenu-today-button:active,
@@ -1351,13 +1351,13 @@ StScrollBar {
   text-shadow: 0 1px rgba(21, 32, 43, 0);
   color: #BAC3CF;
   border: 1px solid rgba(26, 28, 34, 0.35);
-  background-color: rgba(102, 109, 132, 0.35);
+  background-color: rgba(21, 32, 43, 0.35);
   box-shadow: inset 0 1px rgba(0, 0, 0, 0.05); }
   .app-view-control:hover {
     text-shadow: 0 1px rgba(21, 32, 43, 0);
     color: #BAC3CF;
     border: 1px solid rgba(26, 28, 34, 0.35);
-    background-color: rgba(119, 127, 151, 0.45);
+    background-color: rgba(13, 20, 27, 0.45);
     box-shadow: inset 0 1px rgba(0, 0, 0, 0.05); }
   .app-view-control:checked {
     color: #ffffff;
@@ -1686,13 +1686,13 @@ StScrollBar {
   text-shadow: 0 1px rgba(21, 32, 43, 0);
   color: #BAC3CF;
   border: 1px solid rgba(26, 28, 34, 0.35);
-  background-color: rgba(102, 109, 132, 0.35);
+  background-color: rgba(21, 32, 43, 0.35);
   box-shadow: inset 0 1px rgba(0, 0, 0, 0.05); }
   .keyboard-key:hover {
     text-shadow: 0 1px rgba(21, 32, 43, 0);
     color: #BAC3CF;
     border: 1px solid rgba(26, 28, 34, 0.35);
-    background-color: rgba(119, 127, 151, 0.45);
+    background-color: rgba(13, 20, 27, 0.45);
     box-shadow: inset 0 1px rgba(0, 0, 0, 0.05); }
   .keyboard-key:active, .keyboard-key:checked {
     text-shadow: 0 1px rgba(21, 32, 43, 0);
@@ -1704,7 +1704,7 @@ StScrollBar {
     text-shadow: 0 1px rgba(21, 32, 43, 0);
     color: #5d626e;
     border: 1px solid rgba(26, 28, 34, 0.35);
-    background-color: rgba(102, 109, 132, 0.2);
+    background-color: rgba(21, 32, 43, 0.2);
     box-shadow: inset 0 1px rgba(0, 0, 0, 0.05); }
 
 .keyboard-subkeys {
@@ -1785,7 +1785,7 @@ StScrollBar {
       .login-dialog .modal-dialog-button:default:hover, .login-dialog .modal-dialog-button:default:focus {
         text-shadow: 0 1px rgba(21, 32, 43, 0);
         color: #D3DAE3;
-        background-color: #505666;
+        background-color: #101820;
         border: 1px solid #2b2e39;
         box-shadow: inset 0 1px rgba(80, 86, 102, 0.05); }
       .login-dialog .modal-dialog-button:default:active {
@@ -2005,7 +2005,7 @@ StScrollBar {
   selection-background-color: #755841;
   selected-color: #ffffff;
   color: #BAC3CF;
-  background-color: rgba(102, 109, 132, 0.35);
+  background-color: rgba(21, 32, 43, 0.35);
   border: 1px solid rgba(26, 28, 34, 0.35);
   box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.05); }
   .lg-dialog StEntry:focus {
