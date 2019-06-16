@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Arc-Black-Mango-Mojito
 MetacityTheme=Arc-Black-Mango-Mojito
-IconTheme=gnome
+IconTheme=Flat-Remix-Dark-Mango-Mojito
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close

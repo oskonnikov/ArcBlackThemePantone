@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Arc-Black-Pink-Peacock
 MetacityTheme=Arc-Black-Pink-Peacock
-IconTheme=gnome
+IconTheme=Flat-Remix-Dark-Pink-Peacock
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close

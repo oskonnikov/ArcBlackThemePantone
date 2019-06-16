@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Arc-Black-Terrarium-Moss
 MetacityTheme=Arc-Black-Terrarium-Moss
-IconTheme=gnome
+IconTheme=Flat-Remix-Dark-Terrarium-Moss
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close
